@@ -7,4 +7,9 @@ public class Animal {
 		System.out.println("Hello world 3");
 		
 	}
+	
+	public void Run() {
+		System.out.println("Hello world");
+		
+	}
 }
